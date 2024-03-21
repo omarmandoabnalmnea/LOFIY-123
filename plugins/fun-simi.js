@@ -64,5 +64,5 @@ function _0x57f4(_0x8f5a3e, _0x3e8322) {
   };
   return _0x57f4(_0x8f5a3e, _0x3e8322);
 }
-handler[_0x4c81d3(0x0)] = /^((sim)?simi|bot|سمسم|سمسمس)$/i;
+handler[_0x4c81d3(0x0)] = /^(simi|bot|سمسم|سمسمس)$/i;
 export default handler;
