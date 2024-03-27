@@ -8,8 +8,7 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['967 782 639 511', '❄️ Raed 🧿', true],
-  ['+967736719121', '🔥 hakoom 🧿', true],
+  ['201144148194', '❄️ Raed 🧿', true],
 ];
 // يمكنك تغير البرمجه من هنا كل ما عليك هوا تغير الاصفر مثل '✆⏐' تحط الزخرفه الخاصه بك مثل '★|•' هكذا 
 global.accc = '𝐿𝑈𝐹𝐹𝑌-𝐵𝛩𝑇';
